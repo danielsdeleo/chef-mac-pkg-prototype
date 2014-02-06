@@ -148,4 +148,12 @@ and shrink the unused space to reduce the file size.
 The resulting `chef.dmg` file is the final product that you want to
 ship.
 
+## Solve the Problem With Money
 
+There are a few commercial programs that are supposed to make creating
+disk images less crappy:
+
+* http://c-command.com/dropdmg/manual-ah/command-line-tool
+* http://www.araelium.com/dmgcanvas/
+
+I know nothing about them.
